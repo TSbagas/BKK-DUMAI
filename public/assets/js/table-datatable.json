@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "full_name": "Eko Saputra",
+        "email": "eko@example.com",
+        "start_date": "2023-01-15",
+        "salary": 50000,
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "full_name": "Budi Santoso",
+        "email": "budi@example.com",
+        "start_date": "2022-05-20",
+        "salary": 60000,
+        "status": "Inactive"
+    },
+    {
+        "id": 3,
+        "full_name": "Siti Aisyah",
+        "email": "siti@example.com",
+        "start_date": "2023-03-10",
+        "salary": 55000,
+        "status": "Active"
+    },
+    {
+        "id": 4,
+        "full_name": "Andi Putra",
+        "email": "andi@example.com",
+        "start_date": "2021-07-05",
+        "salary": 70000,
+        "status": "Active"
+    },
+    {
+        "id": 5,
+        "full_name": "Dewi Lestari",
+        "email": "dewi@example.com",
+        "start_date": "2020-09-15",
+        "salary": 45000,
+        "status": "Inactive"
+    }
+]
