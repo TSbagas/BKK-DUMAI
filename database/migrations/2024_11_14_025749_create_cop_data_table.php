@@ -132,7 +132,7 @@ return new class extends Migration
             //C. Penanganan Masalah
             $table->string('penanganan_masalah_kondisi', 200)->nullable();
             $table->text('penanganan_masalah_lainnya')->nullable();
-
+            
             //D. Sertifikat Izin Karantina
             $table->date('sertif_izin_karantina_tanggal')->nullable();
             $table->time('sertif_izin_karantina_jam')->nullable();

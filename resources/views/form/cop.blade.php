@@ -189,7 +189,7 @@
                                         <label class="form-label" for="abkasing">Asing (Foreigner)</label>
                                         <input type="number" name="abkasing" id="abkasing" class="form-control" />
 
-                                        <label class="form-label" for="abkri">RI (Indonesian)</label>
+                                        <label class="form-label mt-4" for="abkri">RI (Indonesian)</label>
                                         <input type="number" name="abkri" id="abkri" class="form-control" />
                                     </div>
                                     <div class="col-sm-6">
@@ -198,7 +198,7 @@
                                         <input type="number" name="penumpangasing" id="penumpangasing"
                                             class="form-control" />
 
-                                        <label class="form-label" for="penumpangri">RI (Indonesian)</label>
+                                        <label class="form-label mt-4" for="penumpangri">RI (Indonesian)</label>
                                         <input type="number" name="penumpangri" id="penumpangri" class="form-control" />
                                     </div>
                                     <div class="col-12 d-flex justify-content-between">
@@ -1545,18 +1545,21 @@
                                                                 height="300"></canvas>
                                                             <button type="button" class="btn btn-danger mt-2"
                                                                 id="clear-petugas-3">Bersihkan</button>
-                                                            <button type="button" class="btn btn-primary mt-2"
-                                                                id="save-petugas-3">Simpan Tanda Tangan</button>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <!-- Tambahkan modal petugas 2 dan 3 sesuai dengan pola di atas -->
                                         </div>
-
                                     </ol>
+                                    
                                 </div>
-                                <div class="col-12 d-flex justify-content-between">
+                                <div class="d-flex flex-row-reverse mt-2">
+                                    <button class="btn btn-primary justi justify-content-right fs-5">Simpan Data</button>
+
+                                </div>
+
+                                <div class="col-12 d-flex justify-content-between mt-2">
                                     <button type="button" class="btn btn-label-secondary btn-prev">
                                         <i class="ti ti-arrow-left ti-xs me-sm-2"></i>
                                         <span class="align-middle d-sm-inline-block d-none">Previous</span>
