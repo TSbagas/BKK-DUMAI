@@ -1549,7 +1549,6 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <!-- Tambahkan modal petugas 2 dan 3 sesuai dengan pola di atas -->
                                         </div>
                                     </ol>
                                     
