@@ -202,11 +202,11 @@
                                         <input type="number" name="penumpangri" id="penumpangri" class="form-control" />
                                     </div>
                                     <div class="col-12 d-flex justify-content-between">
-                                        <button class="btn btn-label-secondary btn-prev" disabled>
+                                        <button type="button" class="btn btn-label-secondary btn-prev" disabled>
                                             <i class="ti ti-arrow-left ti-xs me-sm-2"></i>
                                             <span class="align-middle d-sm-inline-block d-none">Previous</span>
                                         </button>
-                                        <button class="btn btn-primary btn-next">
+                                        <button type="button" class="btn btn-primary btn-next">
                                             <span class="align-middle d-sm-inline-block d-none me-sm-2">Next</span>
                                             <i class="ti ti-arrow-right ti-xs"></i>
                                         </button>
@@ -1035,11 +1035,11 @@
                                         </ol>
                                     </div>
                                     <div class="col-12 d-flex justify-content-between">
-                                        <button class="btn btn-label-secondary btn-prev">
+                                        <button type="button" class="btn btn-label-secondary btn-prev">
                                             <i class="ti ti-arrow-left ti-xs me-sm-2"></i>
                                             <span class="align-middle d-sm-inline-block d-none">Previous</span>
                                         </button>
-                                        <button class="btn btn-primary btn-next">
+                                        <button type="button" class="btn btn-primary btn-next">
                                             <span class="align-middle d-sm-inline-block d-none me-sm-2">Next</span>
                                             <i class="ti ti-arrow-right ti-xs"></i>
                                         </button>
@@ -1185,11 +1185,11 @@
                                         </div>
                                     </ol>
                                     <div class="col-12 d-flex justify-content-between">
-                                        <button class="btn btn-label-secondary btn-prev">
+                                        <button type="button" class="btn btn-label-secondary btn-prev">
                                             <i class="ti ti-arrow-left ti-xs me-sm-2"></i>
                                             <span class="align-middle d-sm-inline-block d-none">Previous</span>
                                         </button>
-                                        <button class="btn btn-primary btn-next">
+                                        <button type="button" class="btn btn-primary btn-next">
                                             <span class="align-middle d-sm-inline-block d-none me-sm-2">Next</span>
                                             <i class="ti ti-arrow-right ti-xs"></i>
                                         </button>
@@ -1557,11 +1557,11 @@
                                     </ol>
                                 </div>
                                 <div class="col-12 d-flex justify-content-between">
-                                    <button class="btn btn-label-secondary btn-prev">
+                                    <button type="button" class="btn btn-label-secondary btn-prev">
                                         <i class="ti ti-arrow-left ti-xs me-sm-2"></i>
                                         <span class="align-middle d-sm-inline-block d-none">Previous</span>
                                     </button>
-                                    <button class="btn btn-primary btn-next">
+                                    <button type="button" class="btn btn-primary btn-next">
                                         <span class="align-middle d-sm-inline-block d-none me-sm-2">Next</span>
                                         <i class="ti ti-arrow-right ti-xs"></i>
                                     </button>
